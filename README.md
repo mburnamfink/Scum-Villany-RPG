@@ -7,7 +7,7 @@ This repo is for shared files for a Scum & Villany RPG. Why GitHub?  Well, work 
 * [Player Sheets](https://github.com/mburnamfink/Scum-Villany-RPG/blob/master/SaV-Release-Player_Sheets.pdf)
 * Google Sheets Tracker
 * Rules Summary
-* System Summary
+* [Setting Summary](https://github.com/mburnamfink/Scum-Villany-RPG/wiki/Procyon-Sector)
 
 # To Do
 * Confirm Schedule and Session 0
