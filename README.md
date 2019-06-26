@@ -4,6 +4,8 @@ This repo is for shared files for a Scum & Villany RPG. Why GitHub?  Well, work 
 
 # Key Links
 * [Discord Server](https://discord.gg/xhXEAkw)
+    * [DiceParser](https://github.com/Rolisteam/DiceParser/blob/master/HelpMe.md#comment-)
+    * basically type something like "!3d6s #piloting" to roll dice, sort, and comment the roll
 * [Offical Page](https://www.evilhat.com/home/scum-and-villainy/)
 * [Player Sheets](https://github.com/mburnamfink/Scum-Villany-RPG/blob/master/SaV-Release-Player_Sheets.pdf)
 * Google Sheets Tracker
