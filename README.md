@@ -3,6 +3,7 @@
 This repo is for shared files for a Scum & Villany RPG. Why GitHub?  Well, work blocks Google products, and the built in wiki here might be useful.
 
 # Key Links
+* [Discord Server](https://discord.gg/xhXEAkw)
 * [Offical Page](https://www.evilhat.com/home/scum-and-villainy/)
 * [Player Sheets](https://github.com/mburnamfink/Scum-Villany-RPG/blob/master/SaV-Release-Player_Sheets.pdf)
 * Google Sheets Tracker
