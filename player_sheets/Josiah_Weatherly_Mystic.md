@@ -34,30 +34,26 @@ Laxx, a xeno who was your student but is now a fixer for identifying and buying/
 
 # Rival
 
-Brother, who was ambitious and became a politician
+Jared Weatherly, Josiah's older brother, who was so filled with ambition he became the governor of New California. Far from beloved for his Xenophobic policies.
+
+# Vice
+
+Faith
+Stupor
 
 # Action Dots
+(four points starting)
 
+Attune 2
+Study 1
+Doctor 1
 
 
 # Items - Heavy Load 7
 
-- Offerings
-
-- Outdated religious outfit
-
-- Precursor artifact
-
-- Trappings of religion
-
-- Memento of your travels (doesn't count for load)
-
-- MedKit
-
-- Illicit drugs (doesn't count for load)
-
-- Fine melee weapon
-
-- 
-
-
+- Fine melee weapon - a Jian, a taoist sword
+- Offerings - Rice wine, salt, a candle
+- Outdated religious outfit - a deep purple long robe
+- Precursor artifact - a Viennese music box from Earth, circa 1890. It can serve as a distraction
+- Trappings of religion - Yin Yang pendant
+- Memento of your travels (doesn't count for load) -  a magic cat figurine
