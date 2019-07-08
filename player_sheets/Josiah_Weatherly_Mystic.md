@@ -42,11 +42,14 @@ Faith
 Stupor
 
 # Action Dots
-(four points starting)
+(four points starting plus attune 2 and scramble 1)
 
 Attune 2
+Scramble 1
 Study 1
 Doctor 1
+Sway 2
+
 
 
 # Items - Heavy Load 7
@@ -54,6 +57,6 @@ Doctor 1
 - Fine melee weapon - a Jian, a taoist sword
 - Offerings - Rice wine, salt, a candle
 - Outdated religious outfit - a deep purple long robe
-- Precursor artifact - a Viennese music box from Earth, circa 1890. It can serve as a distraction
+- Precursor artifact - an Ur music box, emitting sound and psychic waves, providing a wave of momentary calm. It can serve as a distraction
 - Trappings of religion - Yin Yang pendant
 - Memento of your travels (doesn't count for load) -  a magic cat figurine
