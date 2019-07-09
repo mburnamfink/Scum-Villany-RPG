@@ -15,7 +15,7 @@ I like Wednesdays because they're normally a kind of lull in the week, and this 
     * basically type something like "!3d6s #piloting" to roll dice, sort, and comment the roll
 * [Offical Page](https://www.evilhat.com/home/scum-and-villainy/)
 * [Player Sheets](https://github.com/mburnamfink/Scum-Villany-RPG/blob/master/SaV-Release-Player_Sheets.pdf)
-* Google Sheets Tracker
+* [Google Sheets Tracker](https://docs.google.com/spreadsheets/d/1FvgFD9EycEPsbZIc0yp1SgwlhaLi4jgNbmlf6I90m_s/edit?usp=sharing)
 * [Wiki Home](https://github.com/mburnamfink/Scum-Villany-RPG/wiki)
     * [Rules Summary](https://github.com/mburnamfink/Scum-Villany-RPG/wiki/Rules)
     * [Setting Summary](https://github.com/mburnamfink/Scum-Villany-RPG/wiki/Procyon-Sector)
