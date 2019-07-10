@@ -20,6 +20,7 @@ I like Wednesdays because they're normally a kind of lull in the week, and this 
     * [Rules Summary](https://github.com/mburnamfink/Scum-Villany-RPG/wiki/Rules)
     * [Setting Summary](https://github.com/mburnamfink/Scum-Villany-RPG/wiki/Procyon-Sector)
     * [Characters](https://github.com/mburnamfink/Scum-Villany-RPG/wiki/Characters)
+* [Fantasy Names](https://www.fantasynamegenerators.com/) Names are hard.  This website has names for almost everything.
 
 # To Do
 * Confirm Schedule and Session 0
