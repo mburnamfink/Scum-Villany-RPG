@@ -7,7 +7,9 @@ Getting a handful of adults together on a regular basis is impossible, but we're
 
 I like Wednesdays because they're normally a kind of lull in the week, and this gives me something to look forward to.
 
-**First Session will be July 10!**
+**Character Generation July 17th**
+
+**Session 1 July 24th**
 
 # Key Links
 * [Discord Server](https://discord.gg/xhXEAkw)
