@@ -7,9 +7,9 @@ Getting a handful of adults together on a regular basis is impossible, but we're
 
 I like Wednesdays because they're normally a kind of lull in the week, and this gives me something to look forward to.
 
-**Character Generation July 17th**
-
 **Session 1 July 24th**
+
+Please have the Google Sheet Tracker updated with your character info.  Any background material would be appreciated it, as it helps me create an adventure that involves *you.*
 
 # Key Links
 * [Discord Server](https://discord.gg/xhXEAkw)
