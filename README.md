@@ -3,11 +3,9 @@
 This repo is for shared files for a Scum & Villany RPG. Why GitHub?  Well, work blocks Google products, and the built in wiki here might be useful.
 
 # Session Scheduling
-Getting a handful of adults together on a regular basis is impossible, but we're going to try our best.  I'm aiming for every other Wednesday at 7:00 PM PST on the Discord.  *I'll run if I have three people*.  I'm punctual, so out of respect for everyone else, be punctual too.  If 7:00 on the dot doesn't work for some reason, like you get home at 7:10, or Wednesdays are always a shitshow, let me know.
+Getting a handful of adults together on a regular basis is impossible, but we're going to try our best.  I'm aiming for every other Thursday at 7:00 PM PST on the Discord.  *I'll run if I have three people*.  I'm punctual, so out of respect for everyone else, be punctual too.  If 7:00 on the dot doesn't work for some reason, like you get home at 7:10, or Wednesdays are always a shitshow, let me know.
 
-I like Wednesdays because they're normally a kind of lull in the week, and this gives me something to look forward to.
-
-**Session 2 August 7th**
+I like Thursday because they're normally a kind of lull in the week, and this gives me something to look forward to.
 
 Please have the Google Sheet Tracker updated with your character info.  Any background material would be appreciated it, as it helps me create an adventure that involves *you.*
 
